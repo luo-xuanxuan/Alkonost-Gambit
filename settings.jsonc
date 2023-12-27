@@ -1,0 +1,6 @@
+{
+    "webhook_url": "",
+    "home_world": "Cactuar",
+    "query_frequency": 5, //Seconds per query
+    "cooldown": 43200 //Seconds for repeat notification
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "item_buy": "37491", //Resplendent Feather
+        "ratio": 4,
+        "item_sell": "36906" //Alkonost Whistle
+    },
+    {
+        "item_buy": "39592", //Burning Horn
+        "ratio": 4,
+        "item_sell": "39490" //Phaethon Horn
+    },
+    {
+        "item_buy": "39590", //Exciting Tonic
+        "ratio": 4,
+        "item_sell": "39491" //Pinky Identification Key
+    }
+]
